@@ -1,4 +1,3 @@
 # My-Website
 This is a really awesome website
-update on locally
-now editing on update-readme branch
+updates made on master on github before rebase
